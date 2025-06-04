@@ -5,13 +5,14 @@ Este projeto simula o atendimento de uma fila com múltiplos servidores (modelo 
 
 ## 📂 Estrutura do Projeto
 
+```text
 projeto_fila/
-├── simulacoes/ # Código Python da simulação
-│ └── simulacao.py
-├── dados/ # Dados de entrada em CSV
-│ └── tempos.csv
-├── resultados/ # Resultados gerados e gráficos
-│ └── resultados.csv, gráficos .png
+├── simulacoes/       # Código Python da simulação
+│   └── simulacao.py
+├── dados/            # Dados de entrada em CSV
+│   └── tempos.csv
+├── resultados/       # Resultados gerados e gráficos
+│   └── resultados.csv, gráficos .png
 
 ## 🚀 Como Executar
 
