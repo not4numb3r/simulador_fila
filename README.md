@@ -25,7 +25,7 @@ projeto_fila/
 
    python simulacoes/simulacao.py
 
-📊 Saídas Geradas
+# 📊 Saídas Geradas
 resultados.csv: registro de cada cliente (chegada, atendimento, espera)
 
 Gráficos:
@@ -36,7 +36,7 @@ Tamanho da fila ao longo do tempo
 
 Ocupação dos servidores
 
-📈 Métricas Calculadas
+# 📈 Métricas Calculadas
 P₀: Probabilidade do sistema estar vazio
 
 P_espera: Probabilidade de um cliente esperar
@@ -49,13 +49,13 @@ W: Tempo médio no sistema
 
 L: Número médio de clientes no sistema
 
-👨‍💻 Autores
+# 👨‍💻 Autores
 Lucas Stoffel
 Estela Argolo
 Willian Endo
 Rodrigo Madureira
 
-📚 Referências
+# 📚 Referências
 Teoria das Filas M/M/c (Pesquisa Operacional)
 
 Bibliotecas: pandas, matplotlib
