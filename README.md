@@ -55,7 +55,7 @@ Estela Argolo
 Willian Endo
 Rodrigo Madureira
 
-# 📚 Referências
+## 📚 Referências
 Teoria das Filas M/M/c (Pesquisa Operacional)
 
 Bibliotecas: pandas, matplotlib
