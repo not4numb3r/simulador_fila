@@ -13,6 +13,7 @@ projeto_fila/
 │   └── tempos.csv
 ├── resultados/       # Resultados gerados e gráficos
 │   └── resultados.csv, gráficos .png
+```
 
 ## 🚀 Como Executar
 
