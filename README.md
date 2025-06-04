@@ -30,11 +30,11 @@ resultados.csv: registro de cada cliente (chegada, atendimento, espera)
 
 Gráficos:
 
-Tempo de espera por cliente
+   - Tempo de espera por cliente
 
-Tamanho da fila ao longo do tempo
+   - Tamanho da fila ao longo do tempo
 
-Ocupação dos servidores
+   - Ocupação dos servidores
 
 ## 📈 Métricas Calculadas
 P₀: Probabilidade do sistema estar vazio
